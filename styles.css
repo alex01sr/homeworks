@@ -5,6 +5,8 @@
     padding: 50px;
     border: red 100px ;
     
+    margin-left: 450px;
+    
 }
 #spanId{
 
@@ -20,4 +22,8 @@
     background-attachment: fixed;
     background-size
     :cover;
+}
+.divClass{
+
+    text-align: center;
 }
