@@ -12,3 +12,12 @@
     margin: 50px;
 
 }
+.bodyClass{
+
+    background-image: url("https://www.caracteristicas.co/wp-content/uploads/2016/06/civilizacion-romana-e1558669365322.jpg");
+
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size
+    :cover;
+}
